@@ -1,0 +1,271 @@
+* {
+  margin: 0;
+  padding: 0; }
+
+.card__image {
+  /*wp*/
+  width: 130px;
+  border-radius: 20px;
+  position: fixed;
+  margin-left: 2100px;
+  margin-top: 1000px; }
+
+#logo {
+  background-color: lemonchiffon;
+  text-align: center; }
+
+.imgchica {
+  width: 270px; }
+
+#menu ol {
+  display: block;
+  height: 70px;
+  margin-top: 20px;
+  margin-bottom: 20px; }
+
+#menu li {
+  display: inline-block;
+  border: 1px solid;
+  padding: 4px;
+  margin-top: 20px;
+  margin-right: 10px;
+  margin-bottom: 50px;
+  margin-left: 50px; }
+
+#menu {
+  text-align: center;
+  font-family: 'Times New Roman', Times, serif; }
+
+#homeposition {
+  text-align: center; }
+
+.imagenmedia {
+  width: 600px; }
+
+.imag {
+  width: 600px;
+  height: 387px; }
+
+.redes {
+  display: flex;
+  justify-content: space-around;
+  margin-bottom: 100px; }
+
+.logos {
+  width: 50px;
+  height: 50px; }
+
+.logo2 {
+  width: 100px;
+  height: 50px; }
+
+.logo3 {
+  width: 100px;
+  height: 100px;
+  margin-bottom: 20px; }
+
+footer {
+  margin-top: 10px;
+  height: 30px; }
+
+#perfil {
+  text-align: center; }
+
+.perfil__medio {
+  width: 600px; }
+
+.quienessomos {
+  text-align: center;
+  padding-top: 10px;
+  margin-bottom: 30px;
+  font-size: 30px;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  text-transform: uppercase; }
+
+#titulo {
+  background-color: lemonchiffon;
+  text-align: center;
+  font-size: 50PX;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  margin-top: 30px; }
+
+.titulo__hg {
+  font-size: 20px;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; }
+
+.titulo__texto {
+  text-align: center;
+  font-size: small;
+  font-family: 'Times New Roman', Times, serif;
+  margin-top: 20px; }
+
+#homeposition {
+  text-align: center; }
+
+strong {
+  font-size: 40px;
+  font-family: 'Times New Roman', Times, serif; }
+
+.numeros {
+  display: inline;
+  border: 1px solid;
+  padding: 4px;
+  margin-bottom: 20px;
+  margin-left: 1150px; }
+
+.procesos {
+  background-color: darksalmon;
+  font-family: 'Gill Sans', 'Gill Sans MT', sans-serif;
+  font-size: 30px;
+  padding-left: 10px;
+  text-transform: uppercase;
+  text-align: center; }
+
+.populares {
+  background-color: darksalmon;
+  font-family: 'Gill Sans', 'Gill Sans MT', sans-serif;
+  font-size: 30px;
+  padding-left: 10px;
+  text-transform: uppercase;
+  text-align: center; }
+
+.lista {
+  background-color: lightpink;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', sans-serif;
+  line-height: 25px;
+  list-style-position: inside;
+  border: solid black;
+  padding-top: 2px;
+  padding-right: 1px;
+  padding-bottom: 2px;
+  padding-left: 10px; }
+
+th {
+  background-color: violet;
+  font-size: xx-large;
+  font-family: system-ui;
+  padding: 15px;
+  font-style: oblique; }
+
+.interior {
+  background-color: cornflowerblue;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 25px;
+  padding: 5px; }
+
+.interior1 {
+  background-color: darkmagenta;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 25px;
+  padding: 5px; }
+
+.exterior {
+  background-color: cornflowerblue;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 25px;
+  padding: 5px; }
+
+.exterior1 {
+  background-color: darkmagenta;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 25px;
+  padding: 5px; }
+
+.logo1 {
+  width: 200px;
+  height: 200px; }
+
+.zonas {
+  text-align: center; }
+
+.tabla {
+  margin: auto; }
+
+.formulario {
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; }
+
+.gif {
+  display: flex;
+  justify-content: space-evenly; }
+
+/*Map*/
+#menu ol li:nth-child(1) {
+  background-color: bisque; }
+
+#menu ol li:nth-child(2) {
+  background-color: aqua; }
+
+#menu ol li:nth-child(3) {
+  background-color: #00ff15; }
+
+#menu ol li:nth-child(4) {
+  background-color: #ff69b4; }
+
+#menu ol li:nth-child(5) {
+  background-color: #e5782f; }
+
+/* Extend */
+.boton, .boton--enviar, .boton--limpiar {
+  width: 200px;
+  height: 40px;
+  background-color: white;
+  text-align: center;
+  color: black;
+  border: 1px solid black;
+  border-radius: 20px; }
+
+.boton--enviar {
+  background-color: chartreuse;
+  color: black; }
+
+.boton--limpiar {
+  background-color: crimson;
+  color: black; }
+
+/*mix*/
+.cuadradoChico {
+  width: 350px;
+  height: 350px; }
+
+.cuadradoMediano {
+  width: 450px;
+  height: 450px; }
+
+.cuadradoGrande {
+  width: 550px;
+  height: 550px; }
+
+.imagenmedia {
+  width: 600px;
+  height: 600px; }
+
+/*Bootstrap*/
+.gradient {
+  background-image: linear-gradient(to right, darkolivegreen, bisque);
+  padding-bottom: 20px; }
+
+.transition:hover {
+  /*cuando el mause toca el elemnto cambia de propiedad*/
+  transform: skew(20deg, 10deg);
+  color: darksalmon; }
+
+.foot:hover {
+  font-size: 30px; }
+
+@keyframes aparecer {
+  0% {
+    opacity: 0; }
+  100% {
+    opacity: 1; } }
+
+.parrafo {
+  animation-duration: 2s;
+  animation-name: aparecer;
+  animation-iteration-count: infinite;
+  background-color: plum; }
+
+.barra:hover {
+  background-color: plum; }
+
+.borde:hover {
+  border: 1px solid black; }
